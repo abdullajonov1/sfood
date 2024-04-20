@@ -1,0 +1,94 @@
+.menu {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  gap: 33px;
+  font-size: 18px;
+  background-color: #8a2be2;
+  padding: 20px;
+}
+
+.menu-link1 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link2 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link3 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link4 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link5 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link6 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link7 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link8 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link9 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link10 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link11 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link12 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link13 {
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.menu-link14{
+  text-decoration: none;
+  color: #fff;
+  font-family: sans-serif;
+  /* font-size: 17px; */
+}

@@ -1,0 +1,110 @@
+.salad{
+    height: 800px;
+}
+.salad-row1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.salad-card1, .salad-card2, .salad-card3, .salad-card4, .salad-card5, .salad-card6{
+    border-radius: 10px;
+    height: 365px;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 0px 10px 0 rgba(0,0,0,0.4); 
+}
+
+.salad-card1-h3, .salad-card2-h3, .salad-card3-h3, .salad-card4-h3, .salad-card5-h3, .salad-card6-h3{
+    width: 236px;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 19px;
+    color: black;
+}
+
+.salad-card1-bottom, .salad-card2-bottom, .salad-card3-bottom, .salad-card4-bottom, .salad-card5-bottom, .salad-card6-bottom{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.salad-card1-p, .salad-card2-p, .salad-card3-p, .salad-card4-p, .salad-card5-p, .salad-card6-p{
+    width: 236px;
+    margin-top: 16px;
+    font-size: 15px;
+    color: #b6b2b2;
+    font-family: sans-serif;
+}
+
+.salad-card2-p, .salad-card6-p{
+    margin-top: 36px;
+}
+
+.salad-card1-p2, .salad-card2-p2, .salad-card3-p2, .salad-card4-p2, .salad-card5-p2, .salad-card6-p2{
+    margin-top: 7px;
+    font-family: sans-serif;
+}
+
+.salad-card1-btn, .salad-card2-btn, .salad-card3-btn, .salad-card4-btn, .salad-card5-btn, .salad-card6-btn{
+    background-color: #8a2be2;
+    border: 2px solid #8a2be2;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 13px;
+    font-family: sans-serif;
+}
+
+.salad-row2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+.salad-rasm1 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.salad-rasm2 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.salad-rasm3 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.salad-rasm4 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.salad-rasm5 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.salad-rasm6 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.salad-link1, .salad-link2, .salad-link3, .salad-link4, .salad-link5, .salad-link6{
+    text-decoration: none;
+
+}
+
+

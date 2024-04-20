@@ -1,0 +1,124 @@
+.donar{
+    height: 800px;
+    }
+    .donar-row1{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 50px;
+    }
+    
+    .card1, .card2, .card3, .card4, .card5, .card6, .card7, .card8{
+        /* border: 2px solid rgb(107, 105, 105); */
+        border-radius: 10px;
+        height: 365px;
+        width: 100%;
+        padding: 10px;
+        border: none;
+        box-shadow: 0 0px 10px 0 rgba(0,0,0,0.4); 
+    }
+    
+    .card1-h3, .card2-h3, .card3-h3, .card4-h3, .card5-h3, .card6-h3, .card7-h3, .card8-h3{
+        width: 236px;
+        font-family: sans-serif;
+        font-size: 18px;
+        margin-top: 19px;
+        color: black;
+    }
+    
+    .card1-bottom, .card2-bottom, .card3-bottom, .card4-bottom, .card5-bottom, .card6-bottom, .card7-bottom, .card8-bottom{
+        display: flex;
+        text-align: center;
+        justify-content: space-between;
+        margin-top: 15px;
+    }
+    
+    .card1-p, .card2-p, .card3-p, .card4-p, .card5-p, .card6-p, .card7-p, .card8-p{
+        width: 236px;
+        margin-top: 16px;
+        font-size: 15px;
+        color: #b6b2b2;
+        font-family: sans-serif;
+    }
+    
+    .card2-p, .card6-p, .card8-p{
+        margin-top: 36px;
+    }
+    
+    .card1-p2, .card2-p2, .card3-p2, .card4-p2, .card5-p2, .card6-p2, .card7-p2, .card8-p2{
+        margin-top: 7px;
+        font-family: sans-serif;
+    }
+    
+    .card1-btn, .card2-btn, .card3-btn, .card4-btn, .card5-btn, .card6-btn, .card7-btn, .card8-btn{
+        background-color: #8a2be2;
+        border: 2px solid #8a2be2;
+        border-radius: 3px;
+        color: #fff;
+        cursor: pointer;
+        padding: 8px 13px;
+        font-family: sans-serif;
+    }
+    
+    .donar-row2{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 35px;
+    }
+    
+    .donar-rasm1 {
+        height: 180px;
+        width: 236px;
+        border-radius: 2px;
+    }  
+    
+    .donar-rasm2 {
+        height: 180px;
+        width: 236px;
+        border-radius: 2px;
+    }  
+    
+    .donar-rasm3 {
+        height: 180px;
+        width: 236px;
+        border-radius: 2px;
+    }  
+    
+    .donar-rasm4 {
+        height: 180px;
+        width: 236px;
+        border-radius: 2px;
+    }  
+    
+    .donar-rasm5 {
+        height: 180px;
+        width: 236px;
+        border-radius: 2px;
+    }  
+    
+    .donar-rasm6 {
+        height: 180px;
+        width: 236px;
+        border-radius: 2px;
+    }  
+    
+    .donar-rasm7 {
+        height: 180px;
+        width: 236px;
+        border-radius: 2px;
+    }  
+    
+    .donar-rasm8 {
+        height: 180px;
+        width: 236px;
+        border-radius: 2px;
+    }  
+    
+    .donar-link1, .donar-link2, .donar-link3, .donar-link4, .donar-link5, .donar-link6, .donar-link7, .donar-link8{
+        text-decoration: none;
+    
+    }
+    
+    
+    

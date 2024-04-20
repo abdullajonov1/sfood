@@ -1,0 +1,110 @@
+.hot-dog{
+    height: 800px;
+}
+.hot-dog-row1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.hot-dog-card1, .hot-dog-card2, .hot-dog-card3, .hot-dog-card4, .hot-dog-card5, .hot-dog-card6{
+    border-radius: 10px;
+    height: 365px;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 0px 10px 0 rgba(0,0,0,0.4); 
+}
+
+.hot-dog-card1-h3, .hot-dog-card2-h3, .hot-dog-card3-h3, .hot-dog-card4-h3, .hot-dog-card5-h3, .hot-dog-card6-h3{
+    width: 236px;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 19px;
+    color: black;
+}
+
+.hot-dog-card1-bottom, .hot-dog-card2-bottom, .hot-dog-card3-bottom, .hot-dog-card4-bottom, .hot-dog-card5-bottom, .hot-dog-card6-bottom{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.hot-dog-card1-p, .hot-dog-card2-p, .hot-dog-card3-p, .hot-dog-card4-p, .hot-dog-card5-p, .hot-dog-card6-p{
+    width: 236px;
+    margin-top: 16px;
+    font-size: 15px;
+    color: #b6b2b2;
+    font-family: sans-serif;
+}
+
+.hot-dog-card2-p, .hot-dog-card6-p{
+    margin-top: 36px;
+}
+
+.hot-dog-card1-p2, .hot-dog-card2-p2, .hot-dog-card3-p2, .hot-dog-card4-p2, .hot-dog-card5-p2, .hot-dog-card6-p2{
+    margin-top: 7px;
+    font-family: sans-serif;
+}
+
+.hot-dog-card1-btn, .hot-dog-card2-btn, .hot-dog-card3-btn, .hot-dog-card4-btn, .hot-dog-card5-btn, .hot-dog-card6-btn{
+    background-color: #8a2be2;
+    border: 2px solid #8a2be2;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 13px;
+    font-family: sans-serif;
+}
+
+.hot-dog-row2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+.hot-dog-rasm1 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.hot-dog-rasm2 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.hot-dog-rasm3 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.hot-dog-rasm4 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.hot-dog-rasm5 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.hot-dog-rasm6 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.hot-dog-link1, .hot-dog-link2, .hot-dog-link3, .hot-dog-link4, .hot-dog-link5, .hot-dog-link6{
+    text-decoration: none;
+
+}
+
+

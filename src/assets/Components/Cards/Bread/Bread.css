@@ -1,0 +1,110 @@
+.bread{
+    height: 800px;
+}
+.bread-row1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.bread-card1, .bread-card2, .bread-card3, .bread-card4, .bread-card5, .bread-card6{
+    border-radius: 10px;
+    height: 365px;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 0px 10px 0 rgba(0,0,0,0.4); 
+}
+
+.bread-card1-h3, .bread-card2-h3, .bread-card3-h3, .bread-card4-h3, .bread-card5-h3, .bread-card6-h3{
+    width: 236px;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 19px;
+    color: black;
+}
+
+.bread-card1-bottom, .bread-card2-bottom, .bread-card3-bottom, .bread-card4-bottom, .bread-card5-bottom, .bread-card6-bottom{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.bread-card1-p, .bread-card2-p, .bread-card3-p, .bread-card4-p, .bread-card5-p, .bread-card6-p{
+    width: 236px;
+    margin-top: 16px;
+    font-size: 15px;
+    color: #b6b2b2;
+    font-family: sans-serif;
+}
+
+.bread-card2-p, .bread-card6-p{
+    margin-top: 36px;
+}
+
+.bread-card1-p2, .bread-card2-p2, .bread-card3-p2, .bread-card4-p2, .bread-card5-p2, .bread-card6-p2{
+    margin-top: 7px;
+    font-family: sans-serif;
+}
+
+.bread-card1-btn, .bread-card2-btn, .bread-card3-btn, .bread-card4-btn, .bread-card5-btn, .bread-card6-btn{
+    background-color: #8a2be2;
+    border: 2px solid #8a2be2;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 13px;
+    font-family: sans-serif;
+}
+
+.bread-row2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+.bread-rasm1 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.bread-rasm2 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.bread-rasm3 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.bread-rasm4 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.bread-rasm5 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.bread-rasm6 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.bread-link1, .bread-link2, .bread-link3, .bread-link4, .bread-link5, .bread-link6{
+    text-decoration: none;
+
+}
+
+

@@ -1,0 +1,110 @@
+.xaggi{
+    height: 800px;
+}
+.xaggi-row1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.xaggi-card1, .xaggi-card2, .xaggi-card3, .xaggi-card4, .xaggi-card5, .xaggi-card6{
+    border-radius: 10px;
+    height: 365px;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 0px 10px 0 rgba(0,0,0,0.4); 
+}
+
+.xaggi-card1-h3, .xaggi-card2-h3, .xaggi-card3-h3, .xaggi-card4-h3, .xaggi-card5-h3, .xaggi-card6-h3{
+    width: 236px;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 19px;
+    color: black;
+}
+
+.xaggi-card1-bottom, .xaggi-card2-bottom, .xaggi-card3-bottom, .xaggi-card4-bottom, .xaggi-card5-bottom, .xaggi-card6-bottom{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.xaggi-card1-p, .xaggi-card2-p, .xaggi-card3-p, .xaggi-card4-p, .xaggi-card5-p, .xaggi-card6-p{
+    width: 236px;
+    margin-top: 16px;
+    font-size: 15px;
+    color: #b6b2b2;
+    font-family: sans-serif;
+}
+
+.xaggi-card2-p, .xaggi-card6-p{
+    margin-top: 36px;
+}
+
+.xaggi-card1-p2, .xaggi-card2-p2, .xaggi-card3-p2, .xaggi-card4-p2, .xaggi-card5-p2, .xaggi-card6-p2{
+    margin-top: 7px;
+    font-family: sans-serif;
+}
+
+.xaggi-card1-btn, .xaggi-card2-btn, .xaggi-card3-btn, .xaggi-card4-btn, .xaggi-card5-btn, .xaggi-card6-btn{
+    background-color: #8a2be2;
+    border: 2px solid #8a2be2;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 13px;
+    font-family: sans-serif;
+}
+
+.xaggi-row2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+.xaggi-rasm1 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.xaggi-rasm2 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.xaggi-rasm3 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.xaggi-rasm4 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.xaggi-rasm5 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.xaggi-rasm6 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.xaggi-link1, .xaggi-link2, .xaggi-link3, .xaggi-link4, .xaggi-link5, .xaggi-link6{
+    text-decoration: none;
+
+}
+
+

@@ -1,0 +1,110 @@
+.burger{
+    height: 800px;
+}
+.burger-row1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.burger-card1, .burger-card2, .burger-card3, .burger-card4, .burger-card5, .burger-card6{
+    border-radius: 10px;
+    height: 365px;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 0px 10px 0 rgba(0,0,0,0.4); 
+}
+
+.burger-card1-h3, .burger-card2-h3, .burger-card3-h3, .burger-card4-h3, .burger-card5-h3, .burger-card6-h3{
+    width: 236px;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 19px;
+    color: black;
+}
+
+.burger-card1-bottom, .burger-card2-bottom, .burger-card3-bottom, .burger-card4-bottom, .burger-card5-bottom, .burger-card6-bottom{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.burger-card1-p, .burger-card2-p, .burger-card3-p, .burger-card4-p, .burger-card5-p, .burger-card6-p{
+    width: 236px;
+    margin-top: 16px;
+    font-size: 15px;
+    color: #b6b2b2;
+    font-family: sans-serif;
+}
+
+.burger-card2-p, .burger-card6-p{
+    margin-top: 36px;
+}
+
+.burger-card1-p2, .burger-card2-p2, .burger-card3-p2, .burger-card4-p2, .burger-card5-p2, .burger-card6-p2{
+    margin-top: 7px;
+    font-family: sans-serif;
+}
+
+.burger-card1-btn, .burger-card2-btn, .burger-card3-btn, .burger-card4-btn, .burger-card5-btn, .burger-card6-btn{
+    background-color: #8a2be2;
+    border: 2px solid #8a2be2;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 13px;
+    font-family: sans-serif;
+}
+
+.burger-row2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+.burger-rasm1 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.burger-rasm2 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.burger-rasm3 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.burger-rasm4 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.burger-rasm5 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.burger-rasm6 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.burger-link1, .burger-link2, .burger-link3, .burger-link4, .burger-link5, .burger-link6{
+    text-decoration: none;
+
+}
+
+

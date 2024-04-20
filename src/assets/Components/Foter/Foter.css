@@ -1,0 +1,86 @@
+.foter {
+  background-color: blueviolet;
+  max-width: 100%;
+  height: 360px;
+}
+
+.foter-up {
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.foter-middle{
+    justify-content: space-between;
+    /* align-items: center; */
+    display: flex;
+    padding-bottom: 35px;
+    border-bottom: 2px solid #fff;
+}
+
+.foter-logo {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+  font-weight: bolder;
+  letter-spacing: 2px;
+}
+
+.foter-item1, .foter-item2{
+    font-family: sans-serif;
+}
+
+.foter-link{
+    margin-top: 10px;
+}
+
+.foter-link a{
+    text-decoration: none;
+    color: #fff;
+    font-family: sans-serif;
+    display: block;
+    padding-top: 20px;
+}
+
+.messenger{
+    margin-right: 32px;
+}
+
+.telegram, .instagram, .youtube{
+    width: 32px;
+    height: 32px;
+    border: 1px solid gray;
+    background-color: #fff;
+    border-radius: 50%;
+    margin: 5px;
+    padding: 5px;
+    margin-top: 25px;
+    margin-left: 37px;
+}
+
+.foter-num{
+    color: #fff;
+    font-family: sans-serif;
+    margin-top: 30px;
+    text-decoration: none;
+    padding-right: 185px;
+}
+
+.foter-bottom{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+}
+
+.foter-p{
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.made-by{
+    text-decoration: none;
+    color: #fff;
+    font-family: sans-serif;
+}

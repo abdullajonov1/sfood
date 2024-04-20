@@ -1,0 +1,122 @@
+.desert{
+    height: 800px;
+}
+.desert-row1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.desert-card1, .desert-card2, .desert-card3, .desert-card4, .desert-card5, .desert-card6{
+    border-radius: 10px;
+    height: 365px;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 0px 10px 0 rgba(0,0,0,0.4); 
+}
+
+.desert-card1-h3, .desert-card2-h3, .desert-card3-h3, .desert-card4-h3, .desert-card5-h3, .desert-card6-h3{
+    width: 236px;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 19px;
+    color: black;
+}
+
+.desert-card1-bottom, .desert-card2-bottom, .desert-card3-bottom, .desert-card4-bottom, .desert-card5-bottom, .desert-card6-bottom{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.desert-card1-p, .desert-card2-p, .desert-card3-p, .desert-card4-p, .desert-card5-p, .desert-card6-p{
+    width: 236px;
+    margin-top: 16px;
+    font-size: 15px;
+    color: #b6b2b2;
+    font-family: sans-serif;
+}
+
+.desert-card2-p, .desert-card6-p{
+    margin-top: 36px;
+}
+
+.desert-card1-p2, .desert-card2-p2, .desert-card3-p2, .desert-card4-p2, .desert-card5-p2, .desert-card6-p2{
+    margin-top: 7px;
+    font-family: sans-serif;
+}
+
+.desert-card1-btn, .desert-card2-btn, .desert-card3-btn, .desert-card4-btn, .desert-card5-btn, .desert-card6-btn{
+    background-color: #8a2be2;
+    border: 2px solid #8a2be2;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 13px;
+    font-family: sans-serif;
+}
+
+.desert-row2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+.desert-rasm1 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.desert-rasm2 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.desert-rasm3 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.desert-rasm4 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.desert-rasm5 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.desert-rasm6 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+/* .desert-rasm7 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}  
+
+.desert-rasm8 {
+    height: 180px;
+    width: 236px;
+    border-radius: 2px;
+}   */
+
+.desert-link1, .desert-link2, .desert-link3, .desert-link4, .desert-link5, .desert-link6{
+    text-decoration: none;
+
+}
+
+
